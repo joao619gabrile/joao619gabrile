@@ -1,5 +1,5 @@
-# 💫 About Me:
-Olá! Sou João Gabriel, um desenvolvedor front-end com uma paixão crescente por tecnologia e programação. Comecei minha jornada na área com um curso técnico, mas, infelizmente, precisei trancar devido à pandemia. Mesmo com esse contratempo, meu interesse pela área nunca diminuiu. Continuei me dedicando e, após iniciar um semestre na faculdade, também enfrentei desafios que me levaram a trancar, mas minha vontade de seguir na área só aumentou.
+# 💫 Sobre mim:
+Olá! Sou João Gabriel, um desenvolvedor front-end com uma paixão crescente por tecnologia e programação. Comecei minha jornada na área com um curso técnico, mas, infelizmente, precisei trancar devido à pandemia. Mesmo com esse contratempo, meu interesse pela área nunca diminuiu. Continuei me dedicando e estudando, porem com contratempos da vida me afastei da area novamente, mas minha vontade de seguir na área só aumentou.É no ano de 2023 retornei mais focado e com a mentalidade ainda mais forte. 
 
 
 ## 🌐 Socials:
